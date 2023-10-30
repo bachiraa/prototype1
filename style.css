@@ -242,6 +242,9 @@ justify-content: center;
         text-align: center;
         margin-top: 20px;
     }
+    .first1{
+        margin-top: 50px;
+    }
     .first1 p{
         text-align: center;
     }
@@ -290,7 +293,15 @@ justify-content: center;
         text-align: center;
     }
 
-   
+    .banner1{
+        height: 700px;
+    }
+    .icon{
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    
 }
 
 
